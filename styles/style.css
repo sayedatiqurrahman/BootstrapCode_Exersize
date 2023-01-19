@@ -1,0 +1,17 @@
+.cards {
+    height: 100vh !important;
+
+}
+
+.cover-page {
+    height: 150px !important;
+    background-image: url(../img/images/banner.png) !important;
+}
+
+.cover-page>img {
+    width: 100px;
+    position: relative;
+    bottom: -80px;
+    left: 50%;
+    transform: translate(-50%);
+}
